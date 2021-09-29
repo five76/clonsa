@@ -12,7 +12,7 @@ Welcome to oapisip's documentation!
 
    chapters/00_cloud/index.rst
    chapters/01_netw/index.rst
-  
+   chapters/02_iam/index.rst
 
 Indices and tables
 ==================

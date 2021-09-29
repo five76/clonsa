@@ -11,6 +11,7 @@ Welcome to oapisip's documentation!
    :caption: Оглавление
 
    chapters/00_cloud/index.rst
+   chapters/01_netw/index.rst
   
 
 Indices and tables

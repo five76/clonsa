@@ -1,11 +1,12 @@
-Storage
+Google Cloud’s Operations Suite
 #####################################
 
 
 .. toctree::
    :maxdepth: 1
 
-   03_storage
-   03_snapshots
-   03_metadata
+   gcos
+   sre
+   monitoring
+   agent
    

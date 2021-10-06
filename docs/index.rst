@@ -14,6 +14,7 @@ Welcome to oapisip's documentation!
    chapters/01_netw/index.rst
    chapters/02_iam/index.rst
    chapters/03_storage/index.rst
+   chapters/gsuit/index.rst
    chapters/04_balance/index.rst
 
 Indices and tables

@@ -16,6 +16,7 @@ Welcome to oapisip's documentation!
    chapters/03_storage/index.rst
    chapters/gsuit/index.rst
    chapters/04_balance/index.rst
+   chapters/0x_ansible/index.rst
 
 Indices and tables
 ==================

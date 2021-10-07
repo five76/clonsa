@@ -2,7 +2,7 @@ Ansible
 #########
 
 https://docs.ansible.com/ansible/latest/user_guide/basic_concepts.html
-
+https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html#selecting-machines-from-inventory
 https://selectel.ru/blog/sistema-upravleniya-konfiguraciej-ansible/
 
 

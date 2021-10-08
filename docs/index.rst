@@ -17,6 +17,7 @@ Welcome to oapisip's documentation!
    chapters/gsuit/index.rst
    chapters/04_balance/index.rst
    chapters/0x_ansible/index.rst
+   chapters/0xx_terraform/index.rst
 
 Indices and tables
 ==================

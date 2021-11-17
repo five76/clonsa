@@ -9,4 +9,5 @@ Ansible — система управления конфигурациями, н
    intro
    install
    continue   
+   continue1
    

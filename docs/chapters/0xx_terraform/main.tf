@@ -120,7 +120,7 @@ resource "google_compute_firewall" "allow-internal-left" {
   name = "allow-internal-left"
   network = google_compute_network.left-network.id
   priority = 1000
-  source_ranges = ["172.16.100.0/24","172.16.200.0/24","192.168.100.0/24","192.168.200.0./24"]
+  source_ranges = ["172.16.100.0/24","172.16.200.0/24","192.168.100.0/24","192.168.200.0/24"]
   allow {
     protocol = "tcp"
     ports =["22","80","443"]
@@ -131,7 +131,7 @@ resource "google_compute_firewall" "allow-internal-right" {
   name = "allow-internal-right"
   network = google_compute_network.right-network.id
   priority = 1000
-  source_ranges = ["172.16.100.0/24","172.16.200.0/24","192.168.100.0/24","192.168.200.0./24"]
+  source_ranges = ["172.16.100.0/24","172.16.200.0/24","192.168.100.0/24","192.168.200.0/24"]
   allow {
     protocol = "tcp"
     ports =["22","80","443"]

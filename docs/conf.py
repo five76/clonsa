@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'wsr39'
+project = 'clonsa'
 copyright = '2021, qwe'
 author = 'qwe'
 
